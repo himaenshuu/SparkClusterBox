@@ -14,3 +14,11 @@ This project demonstrates the implementation of various clustering algorithms us
 - **Apache Spark MLlib**
 - **PySpark**
 - **Jupyter Notebook /Google-Collab**
+  
+✅ Requirements
+Python 3.x 
+Apache Spark
+NumPy, Matplotlib (for visualization)
+
+💡 Purpose
+This project was built to understand and compare different clustering techniques in a distributed environment using Spark. It is useful for large-scale data clustering tasks.
